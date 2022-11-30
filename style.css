@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    max-width: fit-content;
+}
+
+h1:hover {
+    color: green;
+}
+
+p:active {
+    background-color: gray;
+}
+
+a:visited {
+    color: lightslategray;
+}
+
+a:link {
+    color:orange;
+
+}
